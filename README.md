@@ -35,7 +35,7 @@
 
 ### 📘 Data Model Diagram:
 
-
+![Data Model](images/data_model.jpg)
 
 ### 📊 Reporting Queries Implemented:
 
