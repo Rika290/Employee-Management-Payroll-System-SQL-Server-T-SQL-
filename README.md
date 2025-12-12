@@ -4,6 +4,12 @@
 - This project demonstrates a complete SQL Server database system for managing employees, departments, payroll, and attendance.
 - It includes database design, data insertion, reporting queries, stored procedures, functions, and indexing.
 
+## 🛠 Tech Stack
+- SQL Server 2022
+- T-SQL
+- SSMS (SQL Server Management Studio)
+- ERD (Database Diagrams)
+
 ### ⚙️ Skills Demonstrated:
 
 - SQL Server (T-SQL)
@@ -91,4 +97,14 @@
 - Designing reusable stored procedures
 - Improving performance with indexes
 - Creating real-world payroll calculations
+
+## 🚀 How to Run This Project
+
+1. Open SQL Server Management Studio (SSMS)
+2. Run `A.EmpPayroll_CreatingTables.sql`
+3. Run `B.EmpPayroll_InsertingValues.sql`
+4. Run reporting queries → `C.EmpPayroll_ReportingQueries.sql`
+5. Run stored procedures → `D.EmpPayroll_StoredProcedures.sql`
+6. Run scalar functions → `E.EmpPayroll_Functions.sql`
+7. Run index creation → `F.EmpPayroll_Indexes.sql`
 
