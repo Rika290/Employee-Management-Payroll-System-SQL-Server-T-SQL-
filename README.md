@@ -84,4 +84,11 @@
   - `model.jpg` → 
   - `snap.jpg` → 
 
+### 🧠 Key Learnings:
+- How to design normalized databases (3NF)
+- Writing clean & optimized T-SQL code
+- Using window functions for analytics
+- Designing reusable stored procedures
+- Improving performance with indexes
+- Creating real-world payroll calculations
 
