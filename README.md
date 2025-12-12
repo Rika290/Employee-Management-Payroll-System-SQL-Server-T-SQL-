@@ -4,7 +4,7 @@
 - This project demonstrates a complete SQL Server database system for managing employees, departments, payroll, and attendance.
 - It includes database design, data insertion, reporting queries, stored procedures, functions, and indexing.
 
-### 🛠 Skills Demonstrated:
+### ⚙️ Skills Demonstrated:
 
 - SQL Server (T-SQL)
 - Database design (3NF)
@@ -38,7 +38,7 @@
 
 ![Data Model](images/model.jpg)
 
-📊 Creating and populating tables:
+🧾 Creating and populating tables:
 - Sample records:
 
 ![Data Tables](images/snap.jpg)
