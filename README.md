@@ -33,9 +33,15 @@
    - salary_id
 - Implemented CHECK constraints, UNIQUE constraints, and default values (where needed)
 
-### 📘 Data Model Diagram:
+### 📸 Snapshots:
+📘 Data Model Diagram:
 
 ![Data Model](images/model.jpg)
+
+📊 Creating and populating tables:
+- Sample records:
+
+![Data Tables](images/snap.jpg)
 
 ### 📊 Reporting Queries Implemented:
 
