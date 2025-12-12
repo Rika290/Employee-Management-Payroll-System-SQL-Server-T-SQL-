@@ -80,5 +80,8 @@
 - `D.EmpPayroll_StoredProcedures.sql` → CRUD + salary update + payroll summary SPs
 - `E.EmpPayroll_Functions.sql` → Full name & total payroll scalar functions
 - `F.EmpPayroll_Indexes.sql` → Nonclustered index on DepartmentID
+- `images/` →
+  - `model.jpg` → 
+  - `snap.jpg` → 
 
 
