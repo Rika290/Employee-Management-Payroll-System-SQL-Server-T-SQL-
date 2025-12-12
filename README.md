@@ -15,6 +15,28 @@
 - Scalar functions
 - Indexes (Clustered & Nonclustered)
 
+### 🧱 Schema Highlights:
+📌 Dimension Tables:
+- Department — Stores department names and codes
+- JobRole — Job titles, grades, and department linkage
+- Employee — Employee master data (personal + job + department)
+📌 Fact Tables:
+- Salary — Monthly salary structure (basic, HRA, PF, allowances)
+- Attendance — Daily login/logout & working days
+- Payroll — Final payroll calculations per month per employee
+🔗 Relationships & Integrity:
+- All tables linked with Primary–Foreign Key relationships
+- Ensures full referential integrity through:
+   - employee_id
+   - department_id
+   - jobrole_id
+   - salary_id
+- Implemented CHECK constraints, UNIQUE constraints, and default values (where needed)
+
+### 📘 Data Model Diagram:
+
+
+
 ### 📊 Reporting Queries Implemented:
 
 - Employee list with department, role, salary
