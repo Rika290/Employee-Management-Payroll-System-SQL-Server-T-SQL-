@@ -81,8 +81,8 @@
 - `E.EmpPayroll_Functions.sql` → Full name & total payroll scalar functions
 - `F.EmpPayroll_Indexes.sql` → Nonclustered index on DepartmentID
 - `images/` →
-  - `model.jpg` → 
-  - `snap.jpg` → 
+  - `model.jpg` → ER diagram showing the relationships between the tables
+  - `snap.jpg` → Snapshot of tables
 
 ### 🧠 Key Learnings:
 - How to design normalized databases (3NF)
