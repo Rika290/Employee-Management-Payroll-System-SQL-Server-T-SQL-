@@ -73,7 +73,7 @@
 - GetFullName(EmpID)
 - GetTotalPayroll(EmpID)
 
-###⚡ Indexing:
+### ⚡ Indexing:
 
 - Nonclustered index on DepartmentID for faster department-wise queries.
 - Clustered index automatically created on EmployeeID (PK).
