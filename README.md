@@ -84,7 +84,7 @@
   - `model.jpg` → ER diagram showing the relationships between the tables
   - `snap.jpg` → Snapshot of tables
 
-### 🧠 Key Learnings:
+## 🧠 Key Learnings:
 - How to design normalized databases (3NF)
 - Writing clean & optimized T-SQL code
 - Using window functions for analytics
