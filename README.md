@@ -32,7 +32,7 @@
 - Salary — Monthly salary structure (basic, HRA, PF, allowances)
 - Attendance — Daily login/logout & working days
 - Payroll — Final payroll calculations per month per employee
-- 
+  
 🔗 Relationships & Integrity:
 - All tables linked with Primary–Foreign Key relationships
 - Ensures full referential integrity through:
