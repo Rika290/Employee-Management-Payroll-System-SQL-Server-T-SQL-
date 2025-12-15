@@ -4,7 +4,8 @@
 - This project demonstrates a complete SQL Server database system for managing employees, departments, payroll, and attendance.
 - It includes database design, data insertion, reporting queries, stored procedures, functions, and indexing.
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack:
+
 - SQL Server 2022
 - T-SQL
 - SSMS (SQL Server Management Studio)
@@ -27,12 +28,12 @@
 - Department — Stores department names and codes
 - JobRole — Job titles, grades, and department linkage
 - Employee — Employee master data (personal + job + department)
-- 
+  
 📌 Fact Tables:
 - Salary — Monthly salary structure (basic, HRA, PF, allowances)
 - Attendance — Daily login/logout & working days
 - Payroll — Final payroll calculations per month per employee
-  
+
 🔗 Relationships & Integrity:
 - All tables linked with Primary–Foreign Key relationships
 - Ensures full referential integrity through:
